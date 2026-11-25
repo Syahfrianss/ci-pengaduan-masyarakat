@@ -1,0 +1,17 @@
+# Log & cache aplikasi
+application/logs/*
+!application/logs/index.html
+application/cache/*
+!application/cache/index.html
+
+# File upload pengguna
+assets/uploads/*
+!assets/uploads/index.html
+
+# Lingkungan & editor
+.env
+.vscode/
+.idea/
+*.zip
+.DS_Store
+Thumbs.db
