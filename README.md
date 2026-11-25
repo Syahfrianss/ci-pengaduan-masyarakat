@@ -10,7 +10,7 @@ dan Docker. Peran: masyarakat (kirim pengaduan), petugas, dan admin.
 ## Menjalankan
 1. Clone repo:
    ```
-   git clone https://github.com/Syahfrianss/pengaduan-masyarakat.git
+   git clone https://github.com/Syahfrianss/ci-pengaduan-masyarakat.git
    cd pengaduan-masyarakat
    ```
 2. Jalankan:
